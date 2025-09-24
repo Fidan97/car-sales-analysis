@@ -2,7 +2,7 @@
 
 <img width="600" height="630" alt="167" src="https://github.com/user-attachments/assets/70def1b3-58e7-461e-bd72-5192f41cbe99" />
 
-Regional car sales analysis with customer &amp; dealer data. Analyzing sales performance across regions, customer trends, and dealer efficiency. Visualized using Python libraries like Seaborn and Plotly.
+Regional car sales analysis with customer and dealer data. Analyzing sales performance across regions, customer trends, and dealer efficiency. 
 📊 This project analyzes **car sales performance** based on **regional distribution**, **customer demographics**, and **dealer information**.
 
 📁 The dataset includes the following key columns:
