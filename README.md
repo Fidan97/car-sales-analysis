@@ -7,8 +7,8 @@ Regional car sales analysis with customer &amp; dealer data. Analyzing sales per
 
 📁 The dataset includes the following key columns:
 - 🔢 `Car_id`, 🗓️ `Date`, 👤 `Customer Name`, 🚻 `Gender`, 💰 `Annual Income`
-- 🏢 `Dealer_Name`, 🏭 `Company`, 🚙 `Model`, 🔧 `Engine`, ⚙️ `Transmission`, 🎨 `Color`
-- 💵 `Price ($)`, ☎️ `Phone`, 🧾 `Dealer_No`, 🚘 `Body Style`, 🌍 `Dealer_Region`
+-  `Dealer_Name`,  `Company`,  `Model`, 🔧 `Engine`, ⚙️ `Transmission`,  `Color`
+- 💵 `Price ($)`, ☎️ `Phone`, 🧾 `Dealer_No`,  `Body Style`, 🌍 `Dealer_Region`
 
 🎯 **Project Goals:**
 - Analyze sales performance across regions
